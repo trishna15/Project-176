@@ -1,0 +1,36 @@
+body {
+    font-family: 'Pangolin', cursive;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+  }
+  
+  #instruction {
+    margin-bottom: 20px;
+  }
+  
+  .clickable {
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 20px;
+  }
+  
+  .fill_blanks {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-bottom: 1px solid #000;
+    margin-right: 5px;
+    text-align: center;
+  }
+  
